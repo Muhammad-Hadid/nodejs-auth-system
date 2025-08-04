@@ -54,7 +54,7 @@ Body (JSON):
 
 🔗 Dependencies:
 - express
-- mongoose
+- sql
 - bcryptjs
 - jsonwebtoken
 - cookie-parser
