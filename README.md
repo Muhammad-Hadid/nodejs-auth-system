@@ -1,4 +1,4 @@
-"# nodejs-auth-system" 
+# Node.js Authentication System
 
 Simple authentication system using:
 - Node.js
